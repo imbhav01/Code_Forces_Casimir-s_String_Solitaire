@@ -3,13 +3,11 @@
 ## memory limit per test: 256 megabytes
 ## input: standard input
 ## output: standard output
-Casimir has a string s
- which consists of capital Latin letters 'A', 'B', and 'C' only. Each turn he can choose to do one of the two following actions:
+Casimir has a string which consists of capital Latin letters 'A', 'B', and 'C' only. Each turn he can choose to do one of the two following actions:
 
 he can either erase exactly one letter 'A' and exactly one letter 'B' from arbitrary places of the string (these letters don't have to be adjacent);
 or he can erase exactly one letter 'B' and exactly one letter 'C' from arbitrary places in the string (these letters don't have to be adjacent).
-Therefore, each turn the length of the string is decreased exactly by 2
-. All turns are independent so for each turn, Casimir can choose any of two possible actions.
+Therefore, each turn the length of the string is decreased exactly by 2. All turns are independent so for each turn, Casimir can choose any of two possible actions.
 
 For example, with s
  =
